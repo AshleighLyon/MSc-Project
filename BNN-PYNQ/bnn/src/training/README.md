@@ -1,6 +1,6 @@
 # Installing the Training Environment
 
-The BNN-PYNQ Project provides a handy README guide which outlines the steps required to set up an environment and train a given dataset. However, I thought it would also be useful to outline the steps I took in more detail, to aid those with no initial experience with neural networks, as I found it to be a steep yet enjoyable learning curve.
+The BNN-PYNQ Project provides a very handy README guide (README_2.md) which outlines the steps required to set up an environment and train a given dataset. However, I thought it would also be useful to outline the steps I took in more detail, to aid those with no initial experience with neural networks, as I found it to be a steep yet enjoyable learning curve.
 
 ## Setting Up AWS
 
